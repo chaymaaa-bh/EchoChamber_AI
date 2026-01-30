@@ -16,16 +16,16 @@ Echo Chamber AI is a Natural Language Processing (NLP) application designed to d
 * **Data Analysis:** Pandas, Plotly
 
 ## 🚀 Installation & Usage
-
-```bash
-# Clone the repository
-git clone [https://github.com/chaymaaa-bh/EchoChamber_AI.git](https://github.com/chaymaaa-bh/EchoChamber_AI.git)
-
-# Enter the directory
-cd EchoChamber_AI
-
-# Install dependencies
-pip install streamlit pandas transformers torch plotly
-
-# Run the app
-streamlit run app.py
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/chaymaaa-bh/EchoChamber_AI.git
+    cd EchoChamber_AI
+    ```
+2.  **Install dependencies:**
+    ```bash
+    pip install streamlit pandas transformers torch plotly
+    ```
+3.  **Run the application:**
+    ```bash
+    streamlit run app.py
+    ```
