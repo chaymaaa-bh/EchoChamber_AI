@@ -18,7 +18,7 @@ Echo Chamber AI is a Natural Language Processing (NLP) application designed to d
 ## 🚀 Installation & Usage
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/EchoChamber_AI.git](https://github.com/YourUsername/EchoChamber_AI.git)
+    git clone [https://github.com/chaymaaa-bh/EchoChamber_AI.git](https://github.com/chaymaaa-bh/EchoChamber_AI.git)
     cd EchoChamber_AI
     ```
 2.  **Install dependencies:**
